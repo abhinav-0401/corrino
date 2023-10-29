@@ -1,0 +1,14 @@
+{
+  "name": "corrino",
+  "version": "1.0.0",
+  "description": "A declarative JS lib to build UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhinav Jha",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.2.2"
+  }
+}
